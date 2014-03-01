@@ -1,0 +1,8 @@
+---
+appname: rpcron-for-renren.com
+version: 1
+
+cron:
+    - description: 刷人品
+    url: index.php
+    schedule: every 3 mins
